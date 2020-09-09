@@ -3,4 +3,4 @@ Iam going to explain my process of predicting House SalesPrice.  I tried to solv
 
 
 
-Dataset :https://www.kaggle.com/saiharsha1234/salesprice-prediction. Tools used : Python Libraries used : pandas, numpy, matplotlib, sklearn, Concepts : Imputation, data partitioning Algorithm : Decision Tree Regressor
+Dataset :https://www.kaggle.com/saiharsha1234/salesprice-prediction. Tools used : Python Libraries used : pandas, numpy, matplotlib, sklearn, Concepts : Imputation, Machine Learning Algorithm : Decision Tree Regressor
