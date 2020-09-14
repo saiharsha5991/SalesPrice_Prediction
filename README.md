@@ -31,7 +31,9 @@ Iam going to explain my process of predicting House SalesPrice.  I tried to solv
 
 Kaggle Notebook Link :https://www.kaggle.com/saiharsha1234/salesprice-prediction. 
 
-Programing Language used : Python Libraries used : pandas, numpy, matplotlib, sklearn
+Programing Language used : Python 
+
+Libraries used : pandas, numpy, matplotlib, sklearn
 
 Concepts : Imputation
 
